@@ -17,3 +17,13 @@
    https://leetcode.com
 
    Languages: JavaScript, Ruby
+
+4. https://www.4clojure.com/
+
+   Languages: Clojure
+
+# Coding challenges
+
+1. Ruby quiz
+
+   http://rubyquiz.com/

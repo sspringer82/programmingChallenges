@@ -10,7 +10,7 @@
 
    https://coderbyte.com
 
-   Languages: JavaScript, Ruby, Python,...
+   Languages: JavaScript, Ruby, Python, PHP, Java, Swift, Go, C++, C#, C
 
 3. leetcode
 

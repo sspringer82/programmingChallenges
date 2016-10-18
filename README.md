@@ -28,6 +28,10 @@
 
    Languages: Objective C, Dart, .NET, F#, OCaml, Pascal, Java, Python, Scala, JavaScript, Swift, Ruby, Rust, C#, C++, C, Groovy, Clojure, Perl, Haskell, Go, PHP, Bash, Lua
 
+6. Exercism.io
+
+   http://exercism.io/
+
 # Coding challenges
 
 1. Ruby quiz

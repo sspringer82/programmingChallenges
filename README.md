@@ -22,6 +22,12 @@
 
    Languages: Clojure
 
+5. Codin Game
+
+   https://www.codingame.com/
+
+   Languages: Objective C, Dart, .NET, F#, OCaml, Pascal, Java, Python, Scala, JavaScript, Swift, Ruby, Rust, C#, C++, C, Groovy, Clojure, Perl, Haskell, Go, PHP, Bash, Lua
+
 # Coding challenges
 
 1. Ruby quiz

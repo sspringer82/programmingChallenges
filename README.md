@@ -34,6 +34,10 @@
 
    http://exercism.io/
 
+7. **Hackerrank**
+
+   https://www.hackerrank.com
+
 # Coding challenges
 
 1. Ruby quiz

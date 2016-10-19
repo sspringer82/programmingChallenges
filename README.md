@@ -37,6 +37,12 @@
 7. **Hackerrank**
 
    https://www.hackerrank.com
+   
+8. **Codefights.com**
+
+   https://codefights.com/
+   
+   Languages: JavaScript, Python, C++, Java, Ruby, C#, F#, PHP, Perl, Go, Scala, Swift, Haskell, Visual Basic, R
 
 # Coding challenges
 

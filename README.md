@@ -1,12 +1,12 @@
 # List of Platforms offering programming challenges
 
-1. **codewars**
+1. **Codewars**
 
    https://www.codewars.com
 
-   Languages: Clojure, CoffeeScript, C++, C#, Elixir, Java, JavaScript, Haskell, PHP, Python, Ruby, TypeScript
+   Languages: Clojure, C, C++, C#, Crystal, Dart, Elixir, F#, Go, Java, JavaScript, Haskell, PHP, Python, Ruby, Rust, UNIX Shell, SQL, Swift, TypeScript, Objective-C, Lua, OCaml, Scala, Kotlin, Groovy, Solidity, Erlang, R, Nim, BrainF\*ck
 
-2. **coderbyte**
+2. **Coderbyte**
 
    https://coderbyte.com
 
@@ -34,9 +34,11 @@
 
    http://exercism.io/
 
-7. **Hackerrank**
+7. **HackerRank**
 
    https://www.hackerrank.com
+   
+   Languages: Ada, Bash, C, C#, C++, Clojure, CoffeeScript, Common Lisp, D, Elixir, Erlang, F#, Fortran, Go, Groovy, Haskell, Java, JavaScript, Julia, Kotlin, LOLcode, Lua, OCaml, Objective-C, Octave (MATLAB), PHP, Pascal, Perl, Python, R, Racket Scheme, Ruby, Rust, Scala, Smalltalk, Swift, TCL, VB.NET, Whitespace
    
 8. **Codefights.com**
 

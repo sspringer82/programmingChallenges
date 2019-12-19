@@ -37,13 +37,13 @@
 7. **HackerRank**
 
    https://www.hackerrank.com
-   
-   Languages: Ada, Bash, C, C#, C++, Clojure, CoffeeScript, Common Lisp, D, Elixir, Erlang, F#, Fortran, Go, Groovy, Haskell, Java, JavaScript, Julia, Kotlin, LOLcode, Lua, OCaml, Objective-C, Octave (MATLAB), PHP, Pascal, Perl, Python, R, Racket Scheme, Ruby, Rust, Scala, Smalltalk, Swift, TCL, VB.NET, Whitespace
-   
-8. **Codefights.com**
 
-   https://codefights.com/
-   
+   Languages: Ada, Bash, C, C#, C++, Clojure, CoffeeScript, Common Lisp, D, Elixir, Erlang, F#, Fortran, Go, Groovy, Haskell, Java, JavaScript, Julia, Kotlin, LOLcode, Lua, OCaml, Objective-C, Octave (MATLAB), PHP, Pascal, Perl, Python, R, Racket Scheme, Ruby, Rust, Scala, Smalltalk, Swift, TCL, VB.NET, Whitespace
+
+8. **codesignla.com**
+
+   https://codesignal.com/
+
    Languages: JavaScript, Python, C++, Java, Ruby, C#, F#, PHP, Perl, Go, Scala, Swift, Haskell, Visual Basic, R
 
 # Coding challenges

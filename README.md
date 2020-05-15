@@ -46,6 +46,12 @@
 
    Languages: JavaScript, Python, C++, Java, Ruby, C#, F#, PHP, Perl, Go, Scala, Swift, Haskell, Visual Basic, R
 
+9. **Paqmind.com**
+
+   http://paqmind.com/
+   
+   Languages: JavaScript, Haskell
+
 # Coding challenges
 
 1. Ruby quiz
